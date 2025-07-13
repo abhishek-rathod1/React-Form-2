@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import "./App.css";
 
 function App() {
-  // testing edit
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [cnfPass, setCnfPass] = useState("");
